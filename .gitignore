@@ -7,3 +7,4 @@
 /notebook_v3_efficiency.ipynb
 /nrg_bal_c.tsv
 .gitignore
+data/nrg_bal_c.tsv
